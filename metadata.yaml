@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8692
     wikipedia: http://en.wikipedia.org/wiki/Jane_West
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19458#The-Loyalists-Vol.-1-3An-Historical-Novel
 gutenberg_issued: '2006-10-04'
 gutenberg_type: Text
 identifiers:
