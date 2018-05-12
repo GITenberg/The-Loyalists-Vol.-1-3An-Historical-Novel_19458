@@ -1,0 +1,30 @@
+_repo: The-Loyalists-Vol.-1-3An-Historical-Novel_19458
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: West, Mrs. (Jane)
+    alias: West, Jane
+    birthdate: 1758
+    deathdate: 1852
+    gutenberg_agent_id: '8692'
+    url: http://www.gutenberg.org/2009/agents/8692
+    wikipedia: http://en.wikipedia.org/wiki/Jane_West
+description: ''
+gutenberg_issued: '2006-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649 -- Fiction'
+title: 'The Loyalists, Vol. 1-3
+
+  An Historical Novel'
+url: http://www.gutenberg.org/ebooks/19458
